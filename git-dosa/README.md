@@ -16,3 +16,4 @@
 * ghee
 * garam masala
 * chat masala
+* chicken masala
