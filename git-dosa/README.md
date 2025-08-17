@@ -10,3 +10,9 @@
 
 # paneer dosa
 * batter added
+* paneer curry 
+* carrot onion
+* tomato and paneer scrambled
+* ghee
+* garam masala
+* chat masala
